@@ -1,0 +1,10 @@
+MitM Data Aggregator - CDH Real Estate Collector
+Copyright (c) 2026 ZHENG Robert
+
+This product includes software developed by ZHENG Robert (robert@hase-zheng.net).
+
+Third-party dependencies:
+- github.com/jackc/pgx/v5
+- github.com/google/uuid
+- golang.org/x/sync
+- golang.org/x/text
